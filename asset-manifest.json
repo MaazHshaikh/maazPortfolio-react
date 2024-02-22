@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/maazPortfolio-react/static/css/main.a240397c.css",
+    "main.js": "/maazPortfolio-react/static/js/main.2143ff6a.js",
+    "static/js/787.fb771931.chunk.js": "/maazPortfolio-react/static/js/787.fb771931.chunk.js",
+    "static/media/project-img4.png": "/maazPortfolio-react/static/media/project-img4.5de4f06e82a7370891fe.png",
+    "static/media/project-img3.png": "/maazPortfolio-react/static/media/project-img3.f88d928038878736acb7.png",
+    "static/media/color-sharp2.png": "/maazPortfolio-react/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/maazPortfolio-react/static/media/banner-bg.9b670dac8084d5ca210d.png",
+    "static/media/project-img1.png": "/maazPortfolio-react/static/media/project-img1.549addcd66a111fccd7d.png",
+    "static/media/skill4.png": "/maazPortfolio-react/static/media/skill4.1b4bb5fceb01b19da59d.png",
+    "static/media/banner-bg1.png": "/maazPortfolio-react/static/media/banner-bg1.cc1273af450504afe755.png",
+    "static/media/project-img2.png": "/maazPortfolio-react/static/media/project-img2.e04b148101a1a32367bf.png",
+    "static/media/header-img.svg": "/maazPortfolio-react/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/skill6.png": "/maazPortfolio-react/static/media/skill6.dc9593c990390e721086.png",
+    "static/media/skill3.png": "/maazPortfolio-react/static/media/skill3.3b0be426d893793c173e.png",
+    "static/media/CentraNo2-Bold.ttf": "/maazPortfolio-react/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/maazPortfolio-react/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/meter1.png": "/maazPortfolio-react/static/media/meter1.d905d9cb10aa4d216567.png",
+    "static/media/CentraNo2-Book.ttf": "/maazPortfolio-react/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/skill8.png": "/maazPortfolio-react/static/media/skill8.e2fec4a31432eae367dd.png",
+    "static/media/skill5.png": "/maazPortfolio-react/static/media/skill5.7772e9f67209ec108db9.png",
+    "static/media/footer-bg.png": "/maazPortfolio-react/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/skill7.png": "/maazPortfolio-react/static/media/skill7.7d8b062819ee3f841e1b.png",
+    "static/media/contact-img.svg": "/maazPortfolio-react/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/skill2.png": "/maazPortfolio-react/static/media/skill2.0773199ecab7acd8ce3f.png",
+    "static/media/revicons.eot": "/maazPortfolio-react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/maazPortfolio-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/maazPortfolio-react/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/maazPortfolio-react/index.html",
+    "main.a240397c.css.map": "/maazPortfolio-react/static/css/main.a240397c.css.map",
+    "main.2143ff6a.js.map": "/maazPortfolio-react/static/js/main.2143ff6a.js.map",
+    "787.fb771931.chunk.js.map": "/maazPortfolio-react/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240397c.css",
+    "static/js/main.2143ff6a.js"
+  ]
+}
